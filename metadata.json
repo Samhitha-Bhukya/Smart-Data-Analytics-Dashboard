@@ -1,0 +1,7 @@
+{
+  "name": "Smart Data Analytics Dashboard",
+  "description": "Upload CSV and Excel files to instantly generate interactive charts, real-time filters, statistical summaries, KPI metrics, and export reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
